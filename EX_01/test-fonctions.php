@@ -12,7 +12,11 @@
             $disponible = true;
             $disponible = false;
             $quantité = "10";
-            ?> 
+        ?> 
+
+        <?php
+        include "affichage.php";
+        ?>
 
     </body>
 </html> 
