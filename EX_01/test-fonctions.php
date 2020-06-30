@@ -16,6 +16,7 @@
 
         <?php
         include "affichage.php";
+        include "gestion-produit.php"
         ?>
 
     </body>
